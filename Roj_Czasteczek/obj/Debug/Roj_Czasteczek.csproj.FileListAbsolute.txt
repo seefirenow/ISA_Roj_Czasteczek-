@@ -1,0 +1,10 @@
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\Roj_Czasteczek.csprojAssemblyReference.cache
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\Roj_czasteczek.Form1.resources
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\ParticleSwarm.Properties.Resources.resources
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\Roj_Czasteczek.csproj.GenerateResource.cache
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\Roj_Czasteczek.csproj.CoreCompileInputs.cache
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\ParticleSwarm.exe
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\obj\Debug\ParticleSwarm.pdb
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\bin\Debug\ParticleSwarm.exe.config
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\bin\Debug\ParticleSwarm.exe
+C:\Users\julan\OneDrive\Pulpit\ParticleSwarm — kopia\ParticleSwarm\bin\Debug\ParticleSwarm.pdb

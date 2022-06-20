@@ -1,0 +1,10 @@
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.exe.config
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.exe
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.pdb
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.csproj.AssemblyReference.cache
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.Form1.resources
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.Properties.Resources.resources
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.csproj.GenerateResource.cache
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.csproj.CoreCompileInputs.cache
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.exe
+C:\Users\kikus\source\repos\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.pdb
